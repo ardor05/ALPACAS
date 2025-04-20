@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 0%;
+    --foreground: 0 0% 100%;
+    --card: 200 85% 47%;
+    --card-foreground: 0 0% 100%;
+    --border: 200 85% 47%;
+    --input: 200 85% 47%;
+    --ring: 200 85% 47%;
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-black text-white min-h-screen;
+  }
+}
+
+.neon-box {
+  @apply bg-[#1EAEDB]/10 border border-[#1EAEDB]/30;
+  @apply shadow-[0_0_15px_rgba(30,174,219,0.3)];
+  @apply rounded-xl;
+}
+
+.neon-button {
+  @apply bg-[#1EAEDB]/20 border border-[#1EAEDB]/40;
+  @apply shadow-[0_0_10px_rgba(30,174,219,0.4)];
+  @apply hover:bg-[#1EAEDB]/30 transition-all duration-300;
+  @apply rounded-full px-6 py-2 text-white;
+}
+
+@keyframes animStar {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-2000px);
+  }
+}
