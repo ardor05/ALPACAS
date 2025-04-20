@@ -15,7 +15,8 @@ ALPACA is an adaptive loyalty program and crypto airdrop platform built using **
    - The buyer initiates a payment using the platform's wallet (integrated via QR).
    - They use **QR Payment** for a seamless payment experience.
    - After completing the payment, the buyer earns **Loyalty Tokens**.
-   - Loyalty tokens can be used for future transactions or stored for earning **Interest Yielding**.
+   - Loyalty tokens can be used for future transactions for discount/rewards.
+   - Deposited money inside wallet can used for earning **Interest Yielding**.
 
 2. **Seller**:
    - The seller receives the payment in cryptocurrency (e.g., **USDC (Sui)**) directly to their wallet.
