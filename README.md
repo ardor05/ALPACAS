@@ -1,5 +1,5 @@
 # ALPACA (Adaptive Loyalty Program & Crypto Airdrop)
-![ALPACA](https://github.com/user-attachments/assets/e9ae20dc-a1cf-4b1d-b2a9-b5dca89d9219)
+![ALPACA](https://github.com/user-attachments/assets/231df1cd-66f2-445a-983d-873bdef14ef1)
 
 ALPACA is an adaptive loyalty program and crypto airdrop platform built using **SUI dApp Kit** and **React**. It aims to integrate loyalty tokens, interest yielding, and crypto transactions using **QR payments**. The platform uses blockchain technology to create a seamless, decentralized ecosystem for buyers and sellers, rewarding participants with loyalty tokens and other benefits.
 
@@ -23,7 +23,8 @@ ALPACA is an adaptive loyalty program and crypto airdrop platform built using **
 
 The process is diagrammatically represented below:
 
-![How it Works](./mnt/data/4fe37034-8b98-4a91-bf8c-f31fedacb139.png)
+![image](https://github.com/user-attachments/assets/7a68df0f-27c4-4637-a011-d8c02f9ad87a)
+
 
 ## What Has Been Done
 - **Basic UI**: Developed a simple, clean user interface using **React**.
